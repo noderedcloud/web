@@ -84,7 +84,7 @@ a {
 }
 
 .title {
-    background: url(../images/title-wave.png) no-repeat 0% 100% #8f0000;
+    background: url(https://nodered.org/images/title-wave.png) no-repeat 0% 100% #8f0000;
     border-top: 10px solid #a22222;
     text-align: center;
 }
