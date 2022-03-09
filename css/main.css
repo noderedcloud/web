@@ -82,3 +82,9 @@ a {
   -ms-transform: none;
   transform: none;
 }
+
+.title {
+    background: url(../images/title-wave.png) no-repeat 0% 100% #8f0000;
+    border-top: 10px solid #a22222;
+    text-align: center;
+}
